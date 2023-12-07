@@ -32,7 +32,10 @@ public class MyWorld extends World
     }
     
     public void gameOver()
-    {
+    {   
+        /**
+         * adds a gameover label when player loses the game
+         */
         Label gameOverLabel = new Label("Game Over", 100);
         addObject(gameOverLabel, 300, 200);
     }
@@ -48,7 +51,10 @@ public class MyWorld extends World
      * That is: create the initial objects and add them to the world.
      */
     public void createApple()
-    {
+    {   
+        /**
+         * adds apple at random location
+         */
         Apple apple = new Apple();
         int x = Greenfoot.getRandomNumber(600);
         
