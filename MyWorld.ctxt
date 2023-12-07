@@ -1,14 +1,14 @@
 #BlueJ class context
 comment0.target=MyWorld
-comment0.text=\n\ The\ World,\ All\ in\ one\ frame\n\ how\ depressing\n\ \n\ @author\ (Nicholas\ Kulybanycz)\ \n\ @version\ (World\ Version\ I)\n
+comment0.text=\r\n\ The\ World,\ All\ in\ one\ frame\r\n\ how\ depressing\r\n\ \r\n\ @author\ (Nicholas\ Kulybanycz)\ \r\n\ @version\ (World\ Version\ I)\r\n
 comment1.params=
 comment1.target=MyWorld()
-comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\n\ \n
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
 comment2.params=
 comment2.target=void\ gameOver()
 comment3.params=
 comment3.target=void\ increaseScore()
 comment4.params=
 comment4.target=void\ createApple()
-comment4.text=\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\n
+comment4.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
 numComments=5
